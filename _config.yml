@@ -1,16 +1,16 @@
-layout_spectrum: 0.6728773145005107
-typography_spectrum: 0.9201355327386409
+layout_spectrum: 0.14265494770370424
+typography_spectrum: 0.17438172292895615
 color:
-  brandStrength: 0.22814085613936186
-  lightness: 0.5119760408997536
-  saturation: 0.7536886357702315
-  rhythmicContrast: 0.9437964889220893
+  brandStrength: 0.06451865239068866
+  lightness: 0.23829567874781787
+  saturation: 0.22868563560768962
+  rhythmicContrast: 0.22855070512741804
   brandColors:
-    - '#96CA2D'
-    - '#B5E655'
-    - '#EDF7F2'
-    - '#4BB5C1'
-    - '#7FC6BC'
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
 name: playing grid
 navigation:
   - id: 54d3f323-5c00-4e3a-bb7a-91cb65b2fe8b

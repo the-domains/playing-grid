@@ -12,3 +12,8 @@ color:
     - '#4BB5C1'
     - '#7FC6BC'
 name: playing grid
+navigation:
+  - id: 54d3f323-5c00-4e3a-bb7a-91cb65b2fe8b
+    url: 2016-07-18-the-grid-je-matrix-webu-generuje-modifikuje-a-pripravuje-w.html
+    name: Mojetoje
+    type: content
